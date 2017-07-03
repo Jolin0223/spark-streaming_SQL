@@ -2117,7 +2117,7 @@
         "cornerRadiusTopLeft":"2"},
       "多选项":{
         "id":"455cd4868a3647deb226643894c6dc78",
-        "fontName":"'Microsoft YaHei'",
+        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
         "fontSize":"12px",
         "horizontalAlignment":"left",
         "foreGroundFill":{
